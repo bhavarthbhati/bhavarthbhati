@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @bhavarthbhati
-- 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning iOS Development
+- 👀 I’m interested in Frontend Development and UI/UX Design
 - 📱 You can find me on :
-- Twitter - @bhavarthbhati
-- Instagram - @bhavarthbhati
+- Linkedin - https://www.linkedin.com/in/bhavarth-bhati-67bb80195/
+
       
 
 <!---
